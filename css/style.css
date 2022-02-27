@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Hubballi&family=Lora:wght@400;700&family=Roboto:wght@300;400;500;700;900&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+h1, h2, h3 {
+	font-family: 'Hubballi', cursive;
+	font-weight: bold;
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	background-color: #1A5F7A;
+}
+
+.img-circle {
+ 	border-radius: 50%;
+ }
+
+.btn-blueP {
+	margin: 50px auto;
+	position: center;
+}
+
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 10px 20px 40px rgba(0, 0, 0, 0.2);
+	border-radius: 4px;
+	margin: 20px 0px;
+	text-align: center;
+ }
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: #086E7D;
+}
+.list-inline i:hover {
+	font-size: 50px;
+	color: #1A5F7A;
+}

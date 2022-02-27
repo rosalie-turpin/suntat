@@ -1,0 +1,23 @@
+.btn-blue {
+	background-color: #086E7D;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Hubballi', cursive;
+	text-align: center;
+	margin: 50px auto;
+	background-position: center;
+}
+
+.btn-blueP {
+	background-color: #086E7D;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Hubballi', cursive;
+	text-align: center;
+	margin: 50px auto;
+	position: center;
+}
